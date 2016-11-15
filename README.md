@@ -10,7 +10,7 @@
 
 ## Tools
 
-...
+* [Next.js](https://github.com/zeit/next.js/wiki/Redux-example)
 
 ## Languages/Frameworks
 
