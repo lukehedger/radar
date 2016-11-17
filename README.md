@@ -11,6 +11,7 @@
 ## Tools
 
 * [Next.js](https://github.com/zeit/next.js/wiki/Redux-example)
+* [LogRocket](https://logrocket.com/)
 
 ## Languages/Frameworks
 
