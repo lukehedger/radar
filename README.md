@@ -6,7 +6,7 @@
 
 ## Platforms
 
-...
+* [ArangoDB + Foxx](https://www.arangodb.com/why-arangodb/foxx/)
 
 ## Tools
 
