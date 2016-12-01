@@ -19,6 +19,7 @@
 * [Apollo](https://learnapollo.com/) vs Relay 1
 * [Cycle](https://github.com/cyclejs-community/create-cycle-app)
 * [Elm](http://elm-lang.org/)
+* [Inferno](https://github.com/trueadm/inferno)
 * [Svelte](https://svelte.technology/guide)
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Haskell](https://www.haskell.org/)
