@@ -16,9 +16,8 @@
 
 ## Frameworks
 
-* [Apollo](https://learnapollo.com/) vs Relay 1
+* [Apollo](https://learnapollo.com/)
 * [Cycle](https://github.com/cyclejs-community/create-cycle-app)
-* [Inferno](https://github.com/trueadm/inferno)
 * [Svelte](https://svelte.technology/guide)
 
 ## Languages
