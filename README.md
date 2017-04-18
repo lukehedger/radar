@@ -11,13 +11,13 @@
 ## Tools
 
 * [LogRocket](https://logrocket.com/)
-* [Next.js](https://github.com/zeit/next.js/wiki/Redux-example)
 * [Ramda](http://fr.umio.us/why-ramda/)
 
 ## Frameworks
 
 * [Apollo](https://learnapollo.com/)
 * [Cycle](https://github.com/cyclejs-community/create-cycle-app)
+* [ReactXP](https://microsoft.github.io/reactxp/)
 * [Svelte](https://svelte.technology/guide)
 
 ## Languages
