@@ -10,6 +10,7 @@
 
 ## Tools
 
+* [Freactal](https://github.com/FormidableLabs/freactal)
 * [LogRocket](https://logrocket.com/)
 * [Ramda](http://fr.umio.us/why-ramda/)
 
