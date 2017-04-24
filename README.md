@@ -12,6 +12,7 @@
 
 * [Freactal](https://github.com/FormidableLabs/freactal)
 * [LogRocket](https://logrocket.com/)
+* [MobX](https://mobx.js.org/getting-started.html)
 * [Ramda](http://fr.umio.us/why-ramda/)
 
 ## Frameworks
