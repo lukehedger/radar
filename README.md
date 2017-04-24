@@ -11,6 +11,7 @@
 ## Tools
 
 * [Freactal](https://github.com/FormidableLabs/freactal)
+* [Focal](https://github.com/grammarly/focal)
 * [LogRocket](https://logrocket.com/)
 * [MobX](https://mobx.js.org/getting-started.html)
 * [Ramda](http://fr.umio.us/why-ramda/)
