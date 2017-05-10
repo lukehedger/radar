@@ -7,6 +7,7 @@
 ## Platforms
 
 * [ArangoDB + Foxx](https://www.arangodb.com/why-arangodb/foxx/)
+* [Gun.js](http://gun.js.org/)
 
 ## Tools
 
@@ -14,7 +15,7 @@
 * [Focal](https://github.com/grammarly/focal)
 * [LogRocket](https://logrocket.com/)
 * [MobX](https://mobx.js.org/getting-started.html)
-* [Ramda](http://fr.umio.us/why-ramda/)
+* [Ramda](http://fr.umio.us/why-ramda/) | [Trine](https://github.com/jussi-kalliokoski/trine)
 * [Zine](https://github.com/j-s-n/zine)
 
 ## Frameworks
