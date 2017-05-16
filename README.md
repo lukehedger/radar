@@ -31,4 +31,5 @@
 * [Elm](http://elm-lang.org/)
 * [Go](https://golang.org/)
 * [Haskell](https://www.haskell.org/)
+* [Reason](https://github.com/knowbody/crra)
 * [Scala](https://www.scala-lang.org/)
