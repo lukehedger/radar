@@ -11,6 +11,7 @@
 
 ## Tools
 
+* [Fela](http://fela.js.org/)
 * [Freactal](https://github.com/FormidableLabs/freactal)
 * [Focal](https://github.com/grammarly/focal)
 * [LogRocket](https://logrocket.com/)
