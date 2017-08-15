@@ -3,6 +3,7 @@
 ## Techniques
 
 * FRP
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
 ## Platforms
 
