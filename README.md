@@ -31,6 +31,7 @@
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Elm](http://elm-lang.org/)
 * [Haskell](https://www.haskell.org/)
+* [Qt Quick](http://doc.qt.io/qt-5/qtquick-index.html) | [Qt QML](http://doc.qt.io/qt-5/qtqml-index.html)
 * [Reason](https://github.com/knowbody/crra)
 * [Rust/WASM](https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635)
 * [Scala](https://www.scala-lang.org/)
