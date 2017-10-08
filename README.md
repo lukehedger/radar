@@ -22,7 +22,6 @@
 
 ## Frameworks
 
-* [Apollo](https://learnapollo.com/) vs [Relay Modern](https://facebook.github.io/relay/docs/relay-modern.html)
 * [Cycle](https://github.com/cyclejs-community/create-cycle-app)
 * [ReactXP](https://github.com/react-native-training/create-xp-app)
 * [Svelte](https://svelte.technology/guide)
