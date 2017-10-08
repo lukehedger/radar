@@ -31,7 +31,6 @@
 
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Elm](http://elm-lang.org/)
-* [Go](https://tour.golang.org/welcome/1)
 * [Haskell](https://www.haskell.org/)
 * [Reason](https://github.com/knowbody/crra)
 * [Rust/WASM](https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635)
