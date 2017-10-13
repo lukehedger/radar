@@ -2,7 +2,7 @@
 
 ## Techniques
 
-* FRP
+* [F](https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/)-[RP](https://egghead.io/lessons/rxjs-understand-reactive-programming-using-rxjs)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
 ## Platforms
