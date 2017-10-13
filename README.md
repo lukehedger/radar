@@ -2,6 +2,7 @@
 
 ## Techniques
 
+* [Crypto](https://www.coursera.org/learn/crypto/lecture/xAJaD/history-of-cryptography)-[economics](http://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 * [F](https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/)-[RP](https://egghead.io/lessons/rxjs-understand-reactive-programming-using-rxjs)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
