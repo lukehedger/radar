@@ -9,6 +9,7 @@
 ## Platforms
 
 * [ArangoDB + Foxx](https://www.arangodb.com/why-arangodb/foxx/)
+* [Dgraph](https://tour.dgraph.io/)
 * [Gun.js](http://gun.js.org/)
 
 ## Tools
