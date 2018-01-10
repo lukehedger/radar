@@ -18,7 +18,7 @@
 * [Freactal](https://github.com/FormidableLabs/freactal)
 * [Focal](https://github.com/grammarly/focal)
 * [LogRocket](https://logrocket.com/)
-* [MobX](https://mobx.js.org/getting-started.html) & [MST](https://github.com/mobxjs/mobx-state-tree)
+* [MobX](https://mobx.js.org/getting-started.html) & [MST](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)
 * [Ramda](http://fr.umio.us/why-ramda/) | [Trine](https://github.com/jussi-kalliokoski/trine)
 * [Zine](https://github.com/j-s-n/zine)
 
