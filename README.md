@@ -40,3 +40,4 @@
 * [Reason](https://github.com/knowbody/crra)
 * [Rust/WASM](https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635) / [Walt](https://github.com/ballercat/walt)
 * [Scala](https://www.scala-lang.org/)
+* [TypeScript](https://www.typescriptlang.org/)
