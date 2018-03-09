@@ -21,7 +21,7 @@
 * [LogRocket](https://logrocket.com/)
 * [MobX](https://mobx.js.org/getting-started.html) & [MST](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)
 * [Ramda](http://fr.umio.us/why-ramda/) | [Trine](https://github.com/jussi-kalliokoski/trine)
-* [xstate](https://github.com/davidkpiano/xstate)
+* [xstate](https://github.com/davidkpiano/xstate) | [microstates](https://github.com/cowboyd/microstates.js)
 * [Zine](https://github.com/j-s-n/zine)
 
 ## Frameworks
