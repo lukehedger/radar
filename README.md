@@ -27,6 +27,7 @@
 ## Frameworks
 
 * [Cycle](https://github.com/cyclejs-community/create-cycle-app)
+* [Hyperapp](https://hyperapp.js.org/)
 * [ReactXP](https://github.com/react-native-training/create-xp-app)
 * [Stencil](https://stenciljs.com/docs/my-first-component)
 * [Svelte](https://svelte.technology/guide) + [Sapper](https://sapper.svelte.technology/)
