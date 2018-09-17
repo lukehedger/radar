@@ -6,12 +6,14 @@
 * [F](https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/)-[RP](https://egghead.io/lessons/rxjs-understand-reactive-programming-using-rxjs)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 * Game Theory
+* [CQRS](https://martinfowler.com/bliki/CQRS.html)
+* Data structures - [itsy-bitsy](https://github.com/thejameskyle/itsy-bitsy-data-structures), [graphs](https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401), [CRDT](https://github.com/automerge/automerge), distributed databases
+* [Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ## Platforms
 
 * [ArangoDB + Foxx](https://www.arangodb.com/why-arangodb/foxx/)
 * [Dat](https://datproject.org/)
-* [Dgraph](https://tour.dgraph.io/)
 * [Gun.js](http://gun.js.org/)
 
 ## Tools
@@ -23,7 +25,7 @@
 * [LogRocket](https://logrocket.com/)
 * [MobX](https://mobx.js.org/getting-started.html) & [MST](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)
 * [Ramda](http://fr.umio.us/why-ramda/) | [Trine](https://github.com/jussi-kalliokoski/trine)
-* [xstate](https://github.com/davidkpiano/xstate) | [microstates](https://github.com/cowboyd/microstates.js)
+* [xstate](https://github.com/davidkpiano/xstate) | [microstates](https://github.com/cowboyd/microstates.js) | [nanostate](https://github.com/choojs/nanostate)
 * [Zine](https://github.com/j-s-n/zine) | [react-zine](https://github.com/j-s-n/react-zine)
 
 ## Frameworks
@@ -39,6 +41,7 @@
 
 * [ClojureScript](https://github.com/clojure/clojurescript)
 * [Elm](http://elm-lang.org/)
+* [Elixir](https://elixir-lang.org/getting-started/introduction.html)
 * [Grain](https://grain-lang.org/)
 * [Haskell](https://www.haskell.org/)
 * [Qt Quick](http://doc.qt.io/qt-5/qtquick-index.html) | [Qt QML](http://doc.qt.io/qt-5/qtqml-index.html)
