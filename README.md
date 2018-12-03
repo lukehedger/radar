@@ -35,7 +35,7 @@
 * [ReactXP](https://github.com/react-native-training/create-xp-app)
 * [Stencil](https://stenciljs.com/docs/my-first-component)
 * [Svelte](https://svelte.technology/guide) + [Sapper](https://sapper.svelte.technology/)
-* [Tendermint](https://tendermint.com/)
+* [Tendermint](https://tendermint.com/) | [Substrate](https://github.com/paritytech/substrate)
 
 ## Languages
 
