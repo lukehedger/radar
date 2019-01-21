@@ -25,7 +25,7 @@
 * [LogRocket](https://logrocket.com/)
 * [MobX](https://mobx.js.org/getting-started.html) & [MST](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)
 * [Ramda](http://fr.umio.us/why-ramda/) | [Trine](https://github.com/jussi-kalliokoski/trine)
-* [react-native-web](https://github.com/necolas/react-native-web)
+* [react-native-web](https://github.com/necolas/react-native-web) | [react-native-dom](https://github.com/vincentriemer/react-native-dom)
 * [xstate](https://github.com/davidkpiano/xstate) | [microstates](https://github.com/cowboyd/microstates.js) | [nanostate](https://github.com/choojs/nanostate)
 * [Zine](https://github.com/j-s-n/zine) | [react-zine](https://github.com/j-s-n/react-zine)
 
